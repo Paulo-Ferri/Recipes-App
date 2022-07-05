@@ -1,0 +1,85 @@
+/* Referências para a criação dos radio-buttons estilizados:
+https://www.w3schools.com/howto/howto_css_custom_checkbox.asp
+ */
+
+.searchbar-container {
+  align-items: center;
+  background-color: #e8f2e7;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+  padding: 7px;
+}
+
+.search_radio_btn {
+  display: none;
+}
+
+.search-types-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 4px 0 0;
+  width: 90%;
+}
+
+.search-type-label {
+  align-items: center;
+  border: 1.5px solid #89bd89;
+  border-radius: 5px;
+  color: #89bd89;
+  display: flex;
+  font-size: 14px;
+  padding: 0 5px;
+  position: relative;
+}
+
+.search-type-label:before {
+  border: 1px solid #89bd89;
+  border-radius: 50%;
+  content: '';
+  height: 10px;
+  margin-right: 5px;
+  width: 10px;
+}
+
+.search_radio_btn:checked ~ .search-type-label:before {
+  border: 2px solid white;
+}
+
+.search_radio_btn:checked ~ .search-type-label {
+  background-color: #89bd89;
+  color: white;
+}
+
+.search-itens {
+  align-items: center;
+  display: flex;
+}
+
+.search-input {
+  border: none;
+  border-radius: 20px 0 0 20px;
+  margin: 4px 0;
+  padding: 3px 10px;
+  width: 75vw;
+}
+
+.search-input::placeholder {
+  text-align: center;
+}
+
+.search-button {
+  align-items: center;
+  background-color: #89bd89;
+  border: none;
+  border-radius: 0 20px 20px 0;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  padding: 0 10px 0 5px;
+}
+
+.search-btn-img {
+  background-color: #89bd89;
+  height: 15px;
+}

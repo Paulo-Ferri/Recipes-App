@@ -1,0 +1,29 @@
+{
+  "meals": [
+    {
+      "strMeal": "Banana Pancakes",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+      "idMeal": "52855"
+    },
+    {
+      "strMeal": "BBQ Pork Sloppy Joes",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+      "idMeal": "52995"
+    },
+    {
+      "strMeal": "Beef Brisket Pot Roast",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+      "idMeal": "52812"
+    },
+    {
+      "strMeal": "Big Mac",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+      "idMeal": "53013"
+    },
+    {
+      "strMeal": "Chick-Fil-A Sandwich",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+      "idMeal": "53016"
+    }
+  ]
+}

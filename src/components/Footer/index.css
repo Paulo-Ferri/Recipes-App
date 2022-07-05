@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.footer_component {
+  align-items: center;
+  background-color: #89bd89;
+  bottom: 0;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 0 22px;
+  position: fixed;
+  width: 100vw;
+}
+
+.footer_button {
+  background: none;
+  border: none;
+}
+
+.image-footer {
+  width: 8vw;
+}
+

@@ -1,0 +1,15 @@
+.ingredients-checkboxes {
+  display: flex;
+}
+
+.ingredient-is-done {
+  text-decoration: line-through;
+}
+
+.finish_recipe_btn {
+  background-color: #89bd89;
+  border: none;
+  bottom: 0;
+  height: 42px;
+  width: 100%;
+}

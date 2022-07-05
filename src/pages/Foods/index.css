@@ -1,0 +1,27 @@
+.all-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 20px 0;
+  padding-left: 5px;
+  width: 100%;
+}
+
+.category-button {
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 2px 5px 0.5em rgba(0, 0, 0, 0.1);
+  color: black;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  outline: none;
+  padding: 2px 15px;
+}
+
+.category-button:active {
+  transform: translateY(-2px);
+}

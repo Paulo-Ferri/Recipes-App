@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1657056852217" clover="3.2.0">
+  <project timestamp="1657056852217" name="All files">
+    <metrics statements="659" coveredstatements="594" conditionals="224" coveredconditionals="176" methods="215" coveredmethods="190" elements="1098" coveredelements="960" complexity="0" loc="659" ncloc="659" packages="32" files="36" classes="36"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="App.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/App.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="24" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.DoneAndFavoriteCard">
+      <metrics statements="18" coveredstatements="13" conditionals="17" coveredconditionals="16" methods="6" coveredmethods="3"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/DoneAndFavoriteCard/index.js">
+        <metrics statements="18" coveredstatements="13" conditionals="17" coveredconditionals="16" methods="6" coveredmethods="3"/>
+        <line num="12" count="51" type="stmt"/>
+        <line num="13" count="51" type="stmt"/>
+        <line num="14" count="51" type="stmt"/>
+        <line num="15" count="51" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="51" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="51" type="stmt"/>
+        <line num="53" count="11" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="100" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.FavoriteButton">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/FavoriteButton/index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="11" count="122" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Footer">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/Footer/index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="11" count="171" type="stmt"/>
+        <line num="13" count="171" type="stmt"/>
+        <line num="18" count="9" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="42" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header">
+      <metrics statements="8" coveredstatements="7" conditionals="8" coveredconditionals="7" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/Header/index.js">
+        <metrics statements="8" coveredstatements="7" conditionals="8" coveredconditionals="7" methods="2" coveredmethods="2"/>
+        <line num="10" count="228" type="stmt"/>
+        <line num="12" count="228" type="stmt"/>
+        <line num="13" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="20" count="228" type="stmt"/>
+        <line num="58" count="11" type="stmt"/>
+        <line num="63" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.IngredientCard">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/IngredientCard/index.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="81" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.IngredientCheckbox">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/IngredientCheckbox/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="12" count="676" type="stmt"/>
+        <line num="14" count="676" type="stmt"/>
+        <line num="28" count="42" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.RecipeCard">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/RecipeCard/index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="7" count="121" type="stmt"/>
+        <line num="8" count="121" type="stmt"/>
+        <line num="9" count="121" type="stmt"/>
+        <line num="11" count="121" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.SearchBar">
+      <metrics statements="13" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="5"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/SearchBar/index.js">
+        <metrics statements="13" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="5"/>
+        <line num="6" count="11" type="stmt"/>
+        <line num="9" count="17" type="stmt"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="17" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="80" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ShareButton">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/components/ShareButton/index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="122" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.context">
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="MyProvider.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/context/MyProvider.js">
+        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="7" count="196" type="stmt"/>
+        <line num="8" count="196" type="stmt"/>
+        <line num="9" count="196" type="stmt"/>
+        <line num="10" count="196" type="stmt"/>
+        <line num="12" count="196" type="stmt"/>
+        <line num="13" count="192" type="stmt"/>
+        <line num="14" count="192" type="cond" truecount="4" falsecount="0"/>
+        <line num="15" count="28" type="stmt"/>
+        <line num="19" count="196" type="stmt"/>
+        <line num="30" count="196" type="stmt"/>
+        <line num="37" count="17" type="stmt"/>
+      </file>
+      <file name="myContext.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/context/myContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.DoneRecipes">
+      <metrics statements="19" coveredstatements="19" conditionals="6" coveredconditionals="5" methods="6" coveredmethods="6"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/DoneRecipes/index.js">
+        <metrics statements="19" coveredstatements="19" conditionals="6" coveredconditionals="5" methods="6" coveredmethods="6"/>
+        <line num="7" count="20" type="stmt"/>
+        <line num="8" count="20" type="stmt"/>
+        <line num="10" count="20" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="13" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="19" count="8" type="stmt"/>
+        <line num="22" count="20" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="32" count="20" type="stmt"/>
+        <line num="67" count="21" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.DrinkRecipeDetails">
+      <metrics statements="66" coveredstatements="60" conditionals="24" coveredconditionals="20" methods="23" coveredmethods="17"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/DrinkRecipeDetails/index.js">
+        <metrics statements="66" coveredstatements="60" conditionals="24" coveredconditionals="20" methods="23" coveredmethods="17"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="15" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="58" type="stmt"/>
+        <line num="19" count="58" type="stmt"/>
+        <line num="20" count="58" type="stmt"/>
+        <line num="21" count="58" type="stmt"/>
+        <line num="22" count="58" type="stmt"/>
+        <line num="23" count="58" type="stmt"/>
+        <line num="25" count="58" type="stmt"/>
+        <line num="26" count="58" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="58" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="58" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="58" type="stmt"/>
+        <line num="34" count="28" type="stmt"/>
+        <line num="35" count="420" type="stmt"/>
+        <line num="39" count="420" type="stmt"/>
+        <line num="40" count="420" type="stmt"/>
+        <line num="41" count="28" type="stmt"/>
+        <line num="45" count="58" type="stmt"/>
+        <line num="46" count="14" type="stmt"/>
+        <line num="47" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="55" count="58" type="stmt"/>
+        <line num="57" count="14" type="stmt"/>
+        <line num="58" count="14" type="stmt"/>
+        <line num="60" count="14" type="stmt"/>
+        <line num="63" count="58" type="stmt"/>
+        <line num="65" count="14" type="stmt"/>
+        <line num="66" count="14" type="stmt"/>
+        <line num="68" count="14" type="stmt"/>
+        <line num="71" count="58" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="78" count="58" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="92" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="102" count="58" type="stmt"/>
+        <line num="109" count="30" type="stmt"/>
+        <line num="110" count="30" type="stmt"/>
+        <line num="139" count="258" type="stmt"/>
+        <line num="158" count="45" type="stmt"/>
+        <line num="160" count="45" type="stmt"/>
+        <line num="181" count="58" type="stmt"/>
+        <line num="182" count="58" type="cond" truecount="1" falsecount="1"/>
+        <line num="183" count="0" type="stmt"/>
+        <line num="186" count="58" type="cond" truecount="4" falsecount="0"/>
+        <line num="187" count="0" type="stmt"/>
+        <line num="188" count="54" type="stmt"/>
+        <line num="193" count="1" type="stmt"/>
+        <line num="199" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="200" count="4" type="stmt"/>
+        <line num="205" count="0" type="stmt"/>
+        <line num="213" count="58" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Drinks">
+      <metrics statements="48" coveredstatements="43" conditionals="18" coveredconditionals="14" methods="14" coveredmethods="13"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/Drinks/index.js">
+        <metrics statements="48" coveredstatements="43" conditionals="18" coveredconditionals="14" methods="14" coveredmethods="13"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="44" type="stmt"/>
+        <line num="14" count="44" type="stmt"/>
+        <line num="15" count="44" type="stmt"/>
+        <line num="17" count="44" type="stmt"/>
+        <line num="19" count="44" type="stmt"/>
+        <line num="20" count="12" type="stmt"/>
+        <line num="23" count="12" type="stmt"/>
+        <line num="24" count="12" type="stmt"/>
+        <line num="26" count="12" type="stmt"/>
+        <line num="29" count="44" type="stmt"/>
+        <line num="30" count="13" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="41" count="44" type="stmt"/>
+        <line num="42" count="14" type="stmt"/>
+        <line num="43" count="14" type="stmt"/>
+        <line num="44" count="14" type="cond" truecount="3" falsecount="1"/>
+        <line num="46" count="12" type="stmt"/>
+        <line num="47" count="12" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="59" count="14" type="stmt"/>
+        <line num="60" count="14" type="stmt"/>
+        <line num="62" count="14" type="stmt"/>
+        <line num="65" count="44" type="stmt"/>
+        <line num="67" count="44" type="stmt"/>
+        <line num="68" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="27" type="cond" truecount="2" falsecount="2"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="75" count="44" type="stmt"/>
+        <line num="76" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="84" count="44" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="100" count="160" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
+        <line num="115" count="59" type="stmt"/>
+        <line num="117" count="59" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.DrinksInProgress">
+      <metrics statements="68" coveredstatements="54" conditionals="26" coveredconditionals="16" methods="15" coveredmethods="12"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/DrinksInProgress/index.js">
+        <metrics statements="68" coveredstatements="54" conditionals="26" coveredconditionals="16" methods="15" coveredmethods="12"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="20" type="stmt"/>
+        <line num="19" count="58" type="stmt"/>
+        <line num="20" count="58" type="stmt"/>
+        <line num="21" count="58" type="stmt"/>
+        <line num="22" count="58" type="stmt"/>
+        <line num="23" count="58" type="stmt"/>
+        <line num="24" count="58" type="stmt"/>
+        <line num="26" count="58" type="stmt"/>
+        <line num="27" count="58" type="stmt"/>
+        <line num="29" count="58" type="stmt"/>
+        <line num="30" count="32" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="16" type="stmt"/>
+        <line num="32" count="320" type="stmt"/>
+        <line num="36" count="320" type="stmt"/>
+        <line num="38" count="320" type="cond" truecount="3" falsecount="0"/>
+        <line num="40" count="16" type="stmt"/>
+        <line num="44" count="58" type="stmt"/>
+        <line num="46" count="16" type="stmt"/>
+        <line num="47" count="16" type="stmt"/>
+        <line num="49" count="16" type="stmt"/>
+        <line num="52" count="58" type="stmt"/>
+        <line num="53" count="16" type="stmt"/>
+        <line num="54" count="16" type="cond" truecount="1" falsecount="1"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="62" count="58" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="70" count="58" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="85" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="87" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="99" count="58" type="stmt"/>
+        <line num="100" count="11" type="stmt"/>
+        <line num="103" count="11" type="cond" truecount="1" falsecount="1"/>
+        <line num="104" count="11" type="stmt"/>
+        <line num="105" count="11" type="stmt"/>
+        <line num="106" count="11" type="stmt"/>
+        <line num="114" count="11" type="stmt"/>
+        <line num="115" count="11" type="stmt"/>
+        <line num="119" count="58" type="stmt"/>
+        <line num="120" count="1" type="stmt"/>
+        <line num="121" count="1" type="stmt"/>
+        <line num="132" count="1" type="stmt"/>
+        <line num="133" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="134" count="1" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="140" count="1" type="stmt"/>
+        <line num="143" count="58" type="stmt"/>
+        <line num="144" count="26" type="stmt"/>
+        <line num="145" count="26" type="stmt"/>
+        <line num="173" count="78" type="stmt"/>
+        <line num="199" count="58" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.ExDrinksIngredients">
+      <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/ExDrinksIngredients/index.js">
+        <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="13" count="17" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="15" count="17" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+        <line num="23" count="17" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="17" type="stmt"/>
+        <line num="35" count="45" type="stmt"/>
+        <line num="37" count="45" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.ExFoodsIngredients">
+      <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/ExFoodsIngredients/index.js">
+        <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="13" count="17" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="15" count="17" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+        <line num="23" count="17" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="17" type="stmt"/>
+        <line num="35" count="36" type="stmt"/>
+        <line num="37" count="36" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.ExFoodsNationalities">
+      <metrics statements="25" coveredstatements="23" conditionals="6" coveredconditionals="5" methods="10" coveredmethods="10"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/ExFoodsNationalities/index.js">
+        <metrics statements="25" coveredstatements="23" conditionals="6" coveredconditionals="5" methods="10" coveredmethods="10"/>
+        <line num="8" count="31" type="stmt"/>
+        <line num="9" count="31" type="stmt"/>
+        <line num="11" count="31" type="stmt"/>
+        <line num="14" count="31" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="20" count="10" type="stmt"/>
+        <line num="24" count="31" type="stmt"/>
+        <line num="26" count="10" type="stmt"/>
+        <line num="27" count="10" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+        <line num="30" count="10" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="40" count="31" type="stmt"/>
+        <line num="41" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="49" count="31" type="stmt"/>
+        <line num="60" count="147" type="stmt"/>
+        <line num="73" count="35" type="stmt"/>
+        <line num="75" count="35" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Explore">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/Explore/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.ExploreDrinks">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/ExploreDrinks/index.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.ExploreFoods">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/ExploreFoods/index.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.FavoriteRecipes">
+      <metrics statements="22" coveredstatements="22" conditionals="6" coveredconditionals="4" methods="7" coveredmethods="7"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/FavoriteRecipes/index.js">
+        <metrics statements="22" coveredstatements="22" conditionals="6" coveredconditionals="4" methods="7" coveredmethods="7"/>
+        <line num="7" count="32" type="stmt"/>
+        <line num="8" count="32" type="stmt"/>
+        <line num="9" count="32" type="stmt"/>
+        <line num="12" count="32" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="15" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+        <line num="23" count="32" type="stmt"/>
+        <line num="24" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="17" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="33" count="32" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="35" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="40" count="32" type="stmt"/>
+        <line num="75" count="28" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Foods">
+      <metrics statements="47" coveredstatements="38" conditionals="18" coveredconditionals="12" methods="14" coveredmethods="13"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/Foods/index.js">
+        <metrics statements="47" coveredstatements="38" conditionals="18" coveredconditionals="12" methods="14" coveredmethods="13"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="32" type="stmt"/>
+        <line num="15" count="32" type="stmt"/>
+        <line num="16" count="32" type="stmt"/>
+        <line num="18" count="32" type="stmt"/>
+        <line num="20" count="32" type="stmt"/>
+        <line num="21" count="10" type="stmt"/>
+        <line num="24" count="10" type="stmt"/>
+        <line num="25" count="10" type="stmt"/>
+        <line num="27" count="10" type="stmt"/>
+        <line num="30" count="32" type="stmt"/>
+        <line num="31" count="11" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="42" count="32" type="stmt"/>
+        <line num="43" count="10" type="stmt"/>
+        <line num="44" count="10" type="cond" truecount="1" falsecount="3"/>
+        <line num="46" count="10" type="stmt"/>
+        <line num="47" count="10" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="59" count="10" type="stmt"/>
+        <line num="60" count="10" type="stmt"/>
+        <line num="62" count="10" type="stmt"/>
+        <line num="65" count="32" type="stmt"/>
+        <line num="67" count="32" type="stmt"/>
+        <line num="68" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="21" type="cond" truecount="2" falsecount="2"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="75" count="32" type="stmt"/>
+        <line num="76" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="84" count="32" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="100" count="110" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
+        <line num="115" count="33" type="stmt"/>
+        <line num="117" count="33" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.FoodsInProgress">
+      <metrics statements="68" coveredstatements="54" conditionals="25" coveredconditionals="14" methods="15" coveredmethods="12"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/FoodsInProgress/index.js">
+        <metrics statements="68" coveredstatements="54" conditionals="25" coveredconditionals="14" methods="15" coveredmethods="12"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="20" type="stmt"/>
+        <line num="20" count="78" type="stmt"/>
+        <line num="21" count="78" type="stmt"/>
+        <line num="22" count="78" type="stmt"/>
+        <line num="23" count="78" type="stmt"/>
+        <line num="24" count="78" type="stmt"/>
+        <line num="25" count="78" type="stmt"/>
+        <line num="27" count="78" type="stmt"/>
+        <line num="28" count="78" type="stmt"/>
+        <line num="30" count="78" type="stmt"/>
+        <line num="31" count="32" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="16" type="stmt"/>
+        <line num="33" count="320" type="stmt"/>
+        <line num="37" count="320" type="stmt"/>
+        <line num="38" count="320" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="16" type="stmt"/>
+        <line num="43" count="78" type="stmt"/>
+        <line num="45" count="16" type="stmt"/>
+        <line num="46" count="16" type="stmt"/>
+        <line num="48" count="16" type="stmt"/>
+        <line num="51" count="78" type="stmt"/>
+        <line num="52" count="16" type="stmt"/>
+        <line num="53" count="16" type="cond" truecount="1" falsecount="1"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="61" count="78" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="69" count="78" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="84" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="86" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="98" count="78" type="stmt"/>
+        <line num="99" count="31" type="stmt"/>
+        <line num="102" count="31" type="cond" truecount="1" falsecount="1"/>
+        <line num="103" count="31" type="stmt"/>
+        <line num="104" count="31" type="stmt"/>
+        <line num="105" count="31" type="stmt"/>
+        <line num="113" count="31" type="stmt"/>
+        <line num="114" count="31" type="stmt"/>
+        <line num="118" count="78" type="stmt"/>
+        <line num="119" count="1" type="stmt"/>
+        <line num="120" count="1" type="stmt"/>
+        <line num="131" count="1" type="stmt"/>
+        <line num="132" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="133" count="1" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="142" count="78" type="stmt"/>
+        <line num="143" count="46" type="stmt"/>
+        <line num="144" count="46" type="stmt"/>
+        <line num="172" count="598" type="stmt"/>
+        <line num="199" count="78" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Login">
+      <metrics statements="20" coveredstatements="20" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/Login/index.js">
+        <metrics statements="20" coveredstatements="20" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="72" type="stmt"/>
+        <line num="11" count="72" type="stmt"/>
+        <line num="13" count="72" type="stmt"/>
+        <line num="14" count="72" type="stmt"/>
+        <line num="16" count="72" type="stmt"/>
+        <line num="17" count="65" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="46" type="stmt"/>
+        <line num="20" count="65" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="19" type="stmt"/>
+        <line num="25" count="72" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="72" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="38" count="72" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.MealRecipeDetails">
+      <metrics statements="66" coveredstatements="61" conditionals="24" coveredconditionals="21" methods="23" coveredmethods="17"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/MealRecipeDetails/index.js">
+        <metrics statements="66" coveredstatements="61" conditionals="24" coveredconditionals="21" methods="23" coveredmethods="17"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="20" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="62" type="stmt"/>
+        <line num="21" count="62" type="stmt"/>
+        <line num="22" count="62" type="stmt"/>
+        <line num="23" count="62" type="stmt"/>
+        <line num="24" count="62" type="stmt"/>
+        <line num="25" count="62" type="stmt"/>
+        <line num="27" count="62" type="stmt"/>
+        <line num="28" count="62" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="62" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="62" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="62" type="stmt"/>
+        <line num="36" count="28" type="stmt"/>
+        <line num="37" count="560" type="stmt"/>
+        <line num="41" count="560" type="stmt"/>
+        <line num="42" count="560" type="cond" truecount="2" falsecount="0"/>
+        <line num="43" count="28" type="stmt"/>
+        <line num="47" count="62" type="stmt"/>
+        <line num="48" count="14" type="stmt"/>
+        <line num="49" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="57" count="62" type="stmt"/>
+        <line num="59" count="14" type="stmt"/>
+        <line num="60" count="14" type="stmt"/>
+        <line num="62" count="14" type="stmt"/>
+        <line num="65" count="62" type="stmt"/>
+        <line num="67" count="14" type="stmt"/>
+        <line num="68" count="14" type="stmt"/>
+        <line num="70" count="14" type="stmt"/>
+        <line num="73" count="62" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="80" count="62" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="94" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="104" count="62" type="stmt"/>
+        <line num="105" count="20" type="stmt"/>
+        <line num="106" count="20" type="stmt"/>
+        <line num="107" count="20" type="stmt"/>
+        <line num="108" count="20" type="stmt"/>
+        <line num="138" count="358" type="stmt"/>
+        <line num="167" count="57" type="stmt"/>
+        <line num="169" count="57" type="stmt"/>
+        <line num="190" count="62" type="stmt"/>
+        <line num="191" count="62" type="cond" truecount="4" falsecount="0"/>
+        <line num="192" count="0" type="stmt"/>
+        <line num="193" count="58" type="stmt"/>
+        <line num="198" count="1" type="stmt"/>
+        <line num="204" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="205" count="4" type="stmt"/>
+        <line num="210" count="0" type="stmt"/>
+        <line num="218" count="62" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.NotFound">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/NotFound/index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Profile">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="5"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/pages/Profile/index.js">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="5"/>
+        <line num="9" count="10" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="20" coveredstatements="20" conditionals="11" coveredconditionals="11" methods="4" coveredmethods="4"/>
+      <file name="fetchAPI.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/services/fetchAPI.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="173" type="stmt"/>
+        <line num="3" count="173" type="stmt"/>
+        <line num="4" count="173" type="stmt"/>
+        <line num="5" count="173" type="stmt"/>
+      </file>
+      <file name="localStorage.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/services/localStorage.js">
+        <metrics statements="15" coveredstatements="15" conditionals="11" coveredconditionals="11" methods="3" coveredmethods="3"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="306" type="stmt"/>
+        <line num="5" count="762" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="8" count="256" type="stmt"/>
+        <line num="10" count="256" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="236" type="stmt"/>
+        <line num="14" count="256" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="12" type="stmt"/>
+        <line num="17" count="256" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="12" type="stmt"/>
+        <line num="21" count="256" type="cond" truecount="5" falsecount="0"/>
+        <line num="22" count="132" type="stmt"/>
+        <line num="25" count="256" type="stmt"/>
+        <line num="27" count="256" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.tests.mocks.drinks">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/tests/mocks/drinks/index.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="29" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="6" type="stmt"/>
+        <line num="34" count="40" type="stmt"/>
+        <line num="37" count="6" type="stmt"/>
+        <line num="38" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.tests.mocks.foods">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="index.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/tests/mocks/foods/index.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="12" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="39" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="7" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="7" type="stmt"/>
+        <line num="26" count="40" type="stmt"/>
+        <line num="29" count="7" type="stmt"/>
+        <line num="30" count="10" type="stmt"/>
+        <line num="33" count="7" type="stmt"/>
+        <line num="34" count="12" type="stmt"/>
+        <line num="37" count="7" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.tests.utils">
+      <metrics statements="23" coveredstatements="22" conditionals="9" coveredconditionals="7" methods="6" coveredmethods="6"/>
+      <file name="getInProgressMock.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/tests/utils/getInProgressMock.js">
+        <metrics statements="12" coveredstatements="11" conditionals="6" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="6" type="cond" truecount="3" falsecount="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="getIngredients.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/tests/utils/getIngredients.js">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="104" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="35" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="16" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+      <file name="renderWithRouter.js" path="/Users/pauloafonso/Desktop/trybe/refactoring_projects/Recipes-App/src/tests/utils/renderWithRouter.js">
+        <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="7" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="163" type="stmt"/>
+        <line num="9" count="163" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

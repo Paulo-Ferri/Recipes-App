@@ -1,0 +1,38 @@
+.done-recipe-container {
+  display: flex;
+  margin: 0 0 20px 5px;
+  width: 100vw;
+}
+
+.done-recipe-container a {
+  color: black;
+  margin-left: 10px;
+  text-decoration: none;
+  width: 50vw;
+}
+
+.done-recipe-image {
+  border-radius: 14px;
+  width: 48vw;
+}
+
+.done-recipe-info {
+  margin-left: 5px;
+}
+
+.done-recipe-info h1 {
+  margin-top: -30px;
+}
+
+.done-card-category {
+  color: #89bd89;
+  font-size: 18px;
+  margin-top: -1px;
+  max-width: 40vw;
+  text-align: start;
+}
+
+.done-recipe-share button {
+  background-color: white;
+  border: none;
+}
